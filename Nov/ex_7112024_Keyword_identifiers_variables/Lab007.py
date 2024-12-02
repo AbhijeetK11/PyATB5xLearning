@@ -1,0 +1,6 @@
+result = max(3, 4)
+print(result)
+result1 = min(11, 14)
+print(result1)
+result3 = max(11, 23, 56, -22, 100, 99)
+print(result3)
