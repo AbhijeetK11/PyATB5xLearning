@@ -17,4 +17,4 @@ print(type(c2))
 
 print(len(name)) # A b h i j e e t
 print(name.upper())
-print(name.lower())
+print(name.lower(a))
