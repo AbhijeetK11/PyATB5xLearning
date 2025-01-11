@@ -1,8 +1,6 @@
 import pytest
 import allure
 import requests
-from allure_pytest.utils import allure_title, allure_description
-from jinja2.lexer import newline_re
 
 
 @allure.title("TC1 - Verify that what is 2-2 == 0")
